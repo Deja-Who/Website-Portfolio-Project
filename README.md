@@ -1,6 +1,12 @@
 
 David Vu's Website Portfolio
 
+### Getting Started
+1. Open terminal
+2. Change directory path to project
+3. 'npm install'
+4. 'npm start'
+
 ## Components
 
 ### `App.js`
